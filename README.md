@@ -4,8 +4,8 @@ A modern, Spotify-inspired desktop music player built with Python and Tkinter. I
 
 ## 🖼️ Preview
 
-> ![Screenshot](screenshot.png)  
-> *(Add a screenshot of your app here to showcase the UI)*
+<img width="749" height="735" alt="image" src="https://github.com/user-attachments/assets/7a30cda8-3596-4da5-80cc-dde7748a4cbc" />
+
 
 ---
 
