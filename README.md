@@ -26,11 +26,15 @@ A modern, Spotify-inspired desktop music player built with Python and Tkinter. I
 
 ## 📁 Project Structure
 musicplayer/ 
+  
   ├── music/             # Folder containing .mp3 files 
 
 ├── main.py            # Main application file 
+
 ├── player.py          # MusicPlayer class (handles playback) 
+
 ├── playlist.py        # Playlist class (handles song list and navigation)
+
 ├── storage.py 
 
 
